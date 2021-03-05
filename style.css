@@ -1,0 +1,12 @@
+img {
+  width: 800px;
+  height: 450px;
+  margin: 0 20%;
+  border-bottom: 2px solid #868080;
+}
+form {
+  width: 30%;
+  border: 2px solid black;
+  padding: 1.2em;
+  margin: auto;
+}
